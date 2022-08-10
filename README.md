@@ -1,4 +1,4 @@
-# Modelos de datos no estructurada
+# Modelos de datos no estructurados
 
 ### Clasificador de cocumentos
 El objetivo de este reto es lograr un filtro que discrimine automáticamente un tipo de documento sin información relevante: páginas en blanco. Se busca que este filtro reciba como entrada una carpeta con imágenes de documentos diversos y produzca como salida dos carpetas, una con imágenes de páginas sin contenido y otra con imágenes de páginas con contenido.
